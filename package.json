@@ -1,0 +1,27 @@
+{
+  "name": "@studio/tsconfig",
+  "version": "0.0.0",
+  "description": "The JavaScript Studio sharable tsconfig",
+  "main": "tsconfig.json",
+  "author": "Maximilian Antoni <max@javascript.studio>",
+  "homepage": "https://github.com/javascript-studio/tsconfig",
+  "scripts": {
+    "version": "changes --commits --footer",
+    "postversion": "git push --follow-tags && npm publish"
+  },
+  "devDependencies": {
+    "@studio/changes": "^2.2.0"
+  },
+  "peerDependencies": {
+    "@types/mocha": "*",
+    "typescript": "^4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascript-studio/tsconfig.git"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "license": "MIT"
+}
