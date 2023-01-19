@@ -1,5 +1,12 @@
 # Changes
 
+## 1.2.0
+
+- 🍏 [`6303313`](https://github.com/javascript-studio/tsconfig/commit/63033135f28f3c822c86816232671b3a05044714)
+  Set target to es2022
+
+_Released by [Maximilian Antoni](https://github.com/mantoni) on 2023-01-19._
+
 ## 1.1.0
 
 - 🍏 [`6e695d7`](https://github.com/javascript-studio/tsconfig/commit/6e695d71eda2deb59043eef455dfadce8c01c6df)
