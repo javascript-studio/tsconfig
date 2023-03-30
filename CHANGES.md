@@ -1,5 +1,12 @@
 # Changes
 
+## 1.3.0
+
+- 🍏 [`282a758`](https://github.com/javascript-studio/tsconfig/commit/282a7589e6ae60e31527389ba09a8d9064dbe363)
+  Support typescript 5
+
+_Released by [Maximilian Antoni](https://github.com/mantoni) on 2023-03-30._
+
 ## 1.2.0
 
 - 🍏 [`6303313`](https://github.com/javascript-studio/tsconfig/commit/63033135f28f3c822c86816232671b3a05044714)
